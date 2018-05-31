@@ -4,7 +4,7 @@ The codes here are used in the simulation of the manuscript "The evolutionary ga
 of interspecific mutualism in the multi-species communities" by S. Shibasaki (2018). 
 The preprint is available at bioRxiv.
 
-# Description
+## Description
 
 The codes are for simulating the evolutionary dynamics in the communities where three or 
 four species coexist, they mutually interact with one anoter, and their population sizes 
