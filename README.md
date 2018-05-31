@@ -4,7 +4,7 @@ The codes here are used in the simulation of the manuscript "The evolutionary ga
 of interspecific mutualism in the multi-species communities" by S. Shibasaki (2018). 
 The preprint is available at bioRxiv.
 
-#Description
+# Description
 
 The codes are for simulating the evolutionary dynamics in the communities where three or 
 four species coexist, they mutually interact with one anoter, and their population sizes 
@@ -17,7 +17,7 @@ Note that these programs have large computational costs because they solve the
 ordinary differential equations from various intial conditions. Please check the initial 
 conditions and the reputations.
 
-##3species_infinite.py
+##  3species_infinite.py
 
 This code is for simulating the evolutionary dynamics in three species community 
 where population sizes are infinitely large.  
@@ -26,19 +26,19 @@ stable equilibria, run "3species_infinite_stable_equilibrium_analysis.py".
 In addition, "3species_infinite_analyze.py" enables us to classify the results according 
 to the first fixed species.
 
-##4species_infinite.py
+## 4species_infinite.py
 
 This code is for simulating the evolutionary dynamics in four species community 
 where population sizes are infinitely large. 
 Note that this code takes long time to finish the simulation.
 
-##3species_various_population_size.py
+## 3species_various_population_size.py
 
 This code is for simulating the evolutionary dynamics in four species community 
 where population sizes of species are various. By changing the value of input "model", 
 we can change the values of populaiton sizes.
 
-##inequality9.py
+## inequality9.py
 
 This code computes the favorability of each species under the ideal conditions 
 (you can find the explanaitons for the ideal conditions on the manuscript). 
