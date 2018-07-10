@@ -38,7 +38,7 @@ This code is for simulating the evolutionary dynamics in four species community
 where population sizes of species are various. By changing the value of input "model", 
 we can change the values of populaiton sizes.
 
-## inequality9.py
+## ideal-condition.py
 
 This code computes the favorability of each species under the ideal conditions 
 (you can find the explanaitons for the ideal conditions on the manuscript). 
@@ -47,4 +47,4 @@ more likely to be generous or selfish.
 With a function Analyze (M,k) one can calculate the favorability of each species
 given the number of species M and the value of k. 
 Analyze2 make the favorability of each species in the three or four species with deifferent values of k. 
-This function was used to drow Fig. 5 in the manuscript.
+This function was used to draw Fig. 4 in the manuscript.
