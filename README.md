@@ -38,6 +38,10 @@ This code is for simulating the evolutionary dynamics in four species community
 where population sizes of species are various. By changing the value of input "model", 
 we can change the values of populaiton sizes.
 
+## CLT-approximation.py
+
+This code represent whether the central limit theorem offers a good approximation or not when the number of species M is small.
+
 ## ideal-condition.py
 
 This code computes the favorability of each species under the ideal conditions 
