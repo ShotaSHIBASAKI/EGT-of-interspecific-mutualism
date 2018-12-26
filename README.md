@@ -52,3 +52,9 @@ With a function Analyze (M,k) one can calculate the favorability of each species
 given the number of species M and the value of k. 
 Analyze2 make the favorability of each species in the three or four species with deifferent values of k. 
 This function was used to draw Fig. 4 in the manuscript.
+
+## favorability.py
+This code provides the favorabilioty of each species given the value of M.
+The favorabilities are calculated by using two values of k (k=0.5 and k=1.5).
+With this code, you can find the relationdhip between the evolutionary rates and evolutionary fate with 
+an arbitrary value of M, assuming that the difference of evolutionary rates is quite large.
