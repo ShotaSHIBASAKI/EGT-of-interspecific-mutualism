@@ -16,6 +16,13 @@ These codes are writen in Python 3.
 Note that these programs have large computational costs because they solve the 
 ordinary differential equations from various intial conditions. Please check the initial 
 conditions and the reputations.
+## MC_RQRK.py
+
+This code simulate the evolutionary dynamics of given number of specues (M) with a given value of parameter k
+from 1,000 samples of initial conditions with ten replicate.
+In other words, this code run the Monte Carlo simulation to estimate the favorability
+(probability that each species becomes selfish x=0). Some csv files whose name begins with "MC-" are the results that
+are used in the paper.
 
 ##  3species_infinite.py
 
