@@ -16,7 +16,7 @@ These codes are writen in Python 3.
 Note that these programs have large computational costs because they solve the 
 ordinary differential equations from various intial conditions. Please check the initial 
 conditions and the reputations.
-## MC_RQRK.py
+## MC_RKRQ.py
 
 This code simulate the evolutionary dynamics of given number of specues (M) with a given value of parameter k
 from 1,000 samples of initial conditions with ten replicate.
