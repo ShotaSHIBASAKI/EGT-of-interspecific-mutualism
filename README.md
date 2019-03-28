@@ -1,7 +1,7 @@
 # Shibasaki 2018
 
 The codes here are used in the simulation of the manuscript "The evolutionary game theory 
-of interspecific mutualism in the multi-species communities" by S. Shibasaki (2018). 
+of interspecific mutualism in the multi-species communities" by S. Shibasaki (2019) in J. Theor. Biol. 
 The preprint is available at bioRxiv.
 
 ## Description
